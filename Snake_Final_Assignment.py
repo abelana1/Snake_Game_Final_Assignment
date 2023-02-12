@@ -1,4 +1,4 @@
-#Playing Snake as the old Nokias, also setting some characteristics of the grid
+#Playing Snake as the old Nokias
 
 
 def draw_map_tuples(coordinates: list, sweets: list, x: int, y: int) -> None:
